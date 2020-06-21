@@ -1,0 +1,21 @@
+{
+  "name": "number-recognition",
+  "version": "1.0.0",
+  "description": "number recognition using tensorflow.js",
+  "main": "",
+  "scripts": {
+    "test": "echo error no test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Aditya-Dixit-98"
+  },
+  "keywords": [
+    "yo!"
+  ],
+  "author": "Aditya",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-vis": "^1.0.3"
+  }
+}
